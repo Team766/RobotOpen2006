@@ -1,0 +1,2 @@
+Overload RobotOpen::begin to accept an optional robot IP address.  The original usage of the method is not affected.  
+Declaration in the .h file, code in the .cpp file.  These files replace their namesakes in the RobotOpen folder in the Arduino "libraries" folder.
